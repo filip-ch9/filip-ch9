@@ -2,8 +2,8 @@
 
 Currently learning and working at ITS Iskratel Skopje. 
 
-- 🔭 I’m currently working on ... microservices, databases and spring cloud versioning 
-- 🌱 I’m currently learning ... React - The Complete Guide (incl Hooks, React Router, Redux) at udemy
+- 🔭 I’m currently working on ... spring boot app 
+- 🌱 I’m currently learning ... Spring Security
 - 👯 I’m looking to collaborate on ... Java projects, spring boot etc. 
 - 🤔 I’m looking for help with ...Databases 
 - 💬 Ask me about ... Anything 
