@@ -1,6 +1,6 @@
 ### Hi there 👋 
 
-Currently learning and working at ITS Iskratel Skopje. 
+Currently working at ITS Iskratel Skopje. 
 
 - 🔭 I’m currently working on ... spring boot app 
 - 🌱 I’m currently learning ... Spring Security
