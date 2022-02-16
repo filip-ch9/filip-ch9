@@ -7,7 +7,7 @@ Currently working at ITS Iskratel Skopje.
 - 👯 I’m looking to collaborate on ... Web application 
 - 🤔 I’m looking for help with ... AngularJS, Typescript
 - 💬 Ask me about ... Anything 
-- 📫 How to reach me: ... [LinkedIn profile](https://www.linkedin.com/in/filip-churlevski) 
+- 📫 How to reach me: ... [LinkedIn profile]<a href="https://www.linkedin.com/in/zluvsand/"><img height="50" src="https://cdn2.iconfinder.com/data/icons/social-icon-3/512/social_style_3_in-306.png"/>(https://www.linkedin.com/in/filip-churlevski)</a>
 - 😄 Pronouns: ... he/him
 - ⚡ Fun fact: ... No number before 1,000 contains the letter A
 
