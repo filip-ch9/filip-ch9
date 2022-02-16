@@ -10,7 +10,7 @@ Currently working at ITS Iskratel Skopje.
 - 📫 How to reach me: ... [LinkedIn profile](https://www.linkedin.com/in/filip-churlevski) 
 - 😄 Pronouns: ... he/him
 - ⚡ Fun fact: ... No number before 1,000 contains the letter A
--->
+
                              ### Stats                                              |                                     Languages
 :----------------------------------------------------------------------------------:|:-------------------------------------------------------------------------------------------:
 ![](https://github-readme-stats.vercel.app/api?username=filip-ch9&show_icons=true)  |  ![](https://github-readme-stats.vercel.app/api/top-langs?username=zluvsand&layout=compact")
