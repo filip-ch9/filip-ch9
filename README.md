@@ -11,6 +11,6 @@ Currently working at ITS Iskratel Skopje.
 - 😄 Pronouns: ... he/him
 - ⚡ Fun fact: ... No number before 1,000 contains the letter A
 -->
-Stats             |  Languages
-:-------------------------:|:-------------------------:
+                             ### Stats                                              |                                     Languages
+:----------------------------------------------------------------------------------:|:-------------------------------------------------------------------------------------------:
 ![](https://github-readme-stats.vercel.app/api?username=filip-ch9&show_icons=true)  |  ![](https://github-readme-stats.vercel.app/api/top-langs?username=zluvsand&layout=compact")
