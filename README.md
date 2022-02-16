@@ -11,6 +11,4 @@ Currently working at ITS Iskratel Skopje.
 - 😄 Pronouns: ... he/him
 - ⚡ Fun fact: ... No number before 1,000 contains the letter A
 
-      Solarized dark             |  Solarized Ocean
-      :-------------------------:|:-------------------------:
-      ![](https://github-readme-stats.vercel.app/api?username=filip-ch9&show_icons=true)  |  ![](https://github-readme-stats.vercel.app/api/top-langs?username=zluvsand&layout=compact)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=filip-ch9"/> | <img src="https://github-readme-stats.vercel.app/api/top-langs?username=zluvsand&layout=compact"/>
