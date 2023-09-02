@@ -3,7 +3,7 @@
 Currently working as a Junior Backend Developer. 
 
 - 🔭 I’m currently working on ... day to day task at my job  
-- 🌱 I’m currently learning ... Kotlin
+- 🌱 I’m currently learning ... DevOps practices
 - 👯 I’m looking to collaborate on ... Web application 
 - 🤔 I’m looking for help with ... AngularJS, Typescript
 - 💬 Ask me about ... Anything 
