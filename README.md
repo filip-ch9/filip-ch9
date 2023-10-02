@@ -1,8 +1,8 @@
 ### Hi there 👋 
 
-Currently working as a Junior Backend Developer. 
+Currently working as a Backend Developer. 
 
-- 🔭 I’m currently working on ... day to day task at my job  
+- 🔭 I’m currently working on ... pet project  
 - 🌱 I’m currently learning ... DevOps practices
 - 👯 I’m looking to collaborate on ... Web application 
 - 🤔 I’m looking for help with ... AngularJS, Typescript
