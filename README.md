@@ -1,6 +1,6 @@
 ### Hi there 👋 
 
-Currently working as a Backend Developer. 
+Currently working as a Software Engineer. 
 
 - 🔭 I’m currently working on ... pet project  
 - 🌱 I’m currently learning ... DevOps practices
