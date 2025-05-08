@@ -4,10 +4,8 @@ Currently working as a Software Engineer.
 
 - 🔭 I’m currently working on ... pet project  
 - 👯 I’m looking to collaborate on ... Web application 
-- 🤔 I’m looking for help with ... AngularJS, Typescript
 - 💬 Ask me about ... Anything 
 - 😄 Pronouns: ... he/him
-- ⚡ Fun fact: ... No number before 1,000 contains the letter A
 
 <h3 align="left">Reach me out:</h3>
 <p align="left">
