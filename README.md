@@ -3,7 +3,6 @@
 Currently working as a Software Engineer. 
 
 - 🔭 I’m currently working on ... pet project  
-- 🌱 I’m currently learning ... DevOps practices
 - 👯 I’m looking to collaborate on ... Web application 
 - 🤔 I’m looking for help with ... AngularJS, Typescript
 - 💬 Ask me about ... Anything 
